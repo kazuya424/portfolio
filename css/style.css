@@ -1,0 +1,45 @@
+/* about */
+.icon-img {
+    border-radius: 50%;
+    width: 70%;
+    height: 70%;
+    padding: 20px;
+}
+
+.lead li{
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+/* profile */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.portfolio-item .caption {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(33, 37, 41, .2);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+}
+
+/* footer */
+footer.footer .social-link {
+    display: block;
+    height: 4rem;
+    width: 4rem;
+    line-height: 4.3rem;
+    font-size: 1.5rem;
+    background-color: #1d809f;
+}
+
+.text-white {
+    color: #fff!important;
+}
